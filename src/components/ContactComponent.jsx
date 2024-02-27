@@ -15,12 +15,12 @@ export const ContactComponent = () => {
         marginBottom: "5em",
       }}>
       <img src={phone} alt="" height={50} />
-      <p className="info-text">
+      {/* <p className="info-text">
         eia.eklund@gmail.com<br></br>0762308918
-      </p>
-      <button type="button" className="btn btn-info">
+      </p> */}
+      <a href="eia.eklund@gmail.com" className="btn btn-info">
         @ me
-      </button>
+      </a>
     </div>
   );
 };
