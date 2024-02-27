@@ -3,7 +3,7 @@ import { ContactComponent } from "../components/ContactComponent";
 import { HeaderComponent } from "../components/HeaderComponent";
 import { PresentationComponent } from "../components/PresentationComponent";
 import { TechstackComponent } from "../components/TechstackComponent";
-import me from "../assets/IMG_6124.jpeg";
+// import me from "../assets/IMG_6124.jpeg";
 
 export const Frontpage = () => {
   return (
@@ -20,7 +20,7 @@ export const Frontpage = () => {
         <div className="row">
           <ContactComponent />
         </div>
-        <div className="me">
+        {/* <div className="me">
           <img
             src={me}
             alt=""
@@ -33,7 +33,7 @@ export const Frontpage = () => {
               //   zIndex: "-10",
             }}
           />
-        </div>
+        </div> */}
       </div>
     </div>
   );
