@@ -18,7 +18,7 @@ export const ContactComponent = () => {
       {/* <p className="info-text">
         eia.eklund@gmail.com<br></br>0762308918
       </p> */}
-      <a href="eia.eklund@gmail.com" className="btn btn-info">
+      <a href="mailto:eia.eklund@gmail.com" className="btn btn-info">
         @ me
       </a>
     </div>
