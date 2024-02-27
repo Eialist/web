@@ -13,8 +13,8 @@ export const Frontpage = () => {
         <div className="row max-lg-n5">
           <PresentationComponent />
           <div className="col-sm" style={{ paddingLeft: "0" }}>
-            <TechstackComponent />
             <CardslideComponent />
+            <TechstackComponent />
           </div>
         </div>
         <div className="row">
