@@ -39,6 +39,7 @@ export const CardslideComponent = () => {
         objectFit: "fill",
         overflow: "hidden",
         padding: "0",
+        marginBottom: "1em",
         border: "10px solid rgb(244,147,92)",
       }}>
       <div className="card-container">

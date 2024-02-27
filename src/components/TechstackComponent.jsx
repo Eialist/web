@@ -9,7 +9,6 @@ export const TechstackComponent = () => {
         backgroundColor: "rgba(90,167,186)",
         borderRadius: "16px",
         margin: ".5em",
-        marginBottom: "1em",
         display: "flex",
         alignItems: "center",
         justifyContent: "center",

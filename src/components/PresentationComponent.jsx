@@ -13,7 +13,7 @@ export const PresentationComponent = () => {
         className="presentation-text"
         style={{
           color: "white",
-          margin: "3em",
+          margin: "2em",
           lineHeight: "2",
           fontSize: "1.3rem",
         }}>
