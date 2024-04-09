@@ -17,7 +17,7 @@ export const PresentationComponent = () => {
           lineHeight: "2",
           fontSize: "1.3rem",
         }}>
-        Jag heter Erica Eklund och jag står inför avslutningen av min utbildning
+        {/* Jag heter Erica Eklund och jag står inför avslutningen av min utbildning
         som Frontend Developer. Med en bakgrund som mellanstadielärare har jag
         förvärvat värdefulla egenskaper såsom tålamod, kommunikationsförmåga och
         anpassningsförmåga, egenskaper som jag tror kommer vara till nytta som
@@ -28,7 +28,7 @@ export const PresentationComponent = () => {
         Typescript, UX-design och agila arbetsmetoder. Dessutom har jag en
         grundläggande förståelse för backend-utveckling. Jag är särskilt
         passionerad när det gäller React, CSS och design och ser fram emot att
-        fortsätta utveckla mina färdigheter inom dessa områden.
+        fortsätta utveckla mina färdigheter inom dessa områden. */}
       </p>
     </div>
   );
